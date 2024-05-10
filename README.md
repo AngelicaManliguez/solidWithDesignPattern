@@ -9,3 +9,5 @@ To adhere to the Dependency Inversion Principle (DIP) and ensure flexibility for
 Your solution should not violate other SOLID principles.
 
 Make sure you have a TestProgram that will validate the proposed refactored codes.
+
+![solidWithDesignPattern](https://github.com/AngelicaManliguez/solidWithDesignPattern/assets/142959759/6eb05a79-0684-4692-b813-9b2e7e755fbb)
